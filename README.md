@@ -52,3 +52,5 @@ Videos, audio, and sprites are a huge part of the web. How many people in the ro
 Audio, video, and sprites provide more interactive content for your website to make your topic come alive.
 
 ### Hints/Hurdles
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-audio-video-sprites' data-visibility='hidden'>View this lesson on Learn.co</a>
